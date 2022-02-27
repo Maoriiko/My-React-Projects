@@ -1,2 +1,2 @@
-# React
+# My Projects
 My Projects
